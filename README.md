@@ -74,14 +74,14 @@ Elemen HTML dipilih menggunakan `document.getElementById()`, lalu teksnya diubah
 Event `input` digunakan untuk memperbarui jumlah karakter sesuai teks yang diketik, dihapus, atau ditempelkan pengguna.
 
 ![index4.png](ss/index4.png.png)
-![script4.png](ss/script.png.png)
+![script4.png](ss/script4.png.png)
 ![hasil4.png](ss/hasil4.png.png)
 
 ### Latihan 5 — Validasi Form Pendaftaran
 Form memeriksa nama, format email, dan usia. `event.preventDefault()` mencegah pengiriman form secara langsung agar validasi dapat dilakukan terlebih dahulu.
 
 ![index6.png](ss/index6.png.png)
-![script6.png](ss/script.png.png)
+![script6.png](ss/script6.png.png)
 ![hasil5.png](ss/hasil5.png.png)
 
 ### Latihan 6 — To-do List
@@ -152,8 +152,4 @@ Fungsi ini mencegah perilaku bawaan browser, seperti pengiriman form yang membua
 ## Kesimpulan
 Praktikum ini membantu memahami cara JavaScript berinteraksi dengan elemen HTML melalui DOM, menangani event pengguna, mengubah tampilan halaman, dan memvalidasi input form. Pengujian berbagai kondisi diperlukan untuk memastikan fitur berjalan sesuai harapan.
 
-## Referensi
-1. Modul Praktikum Pemrograman Web, Praktikum 6: JavaScript DOM dan Event Handling.
-2. MDN Web Docs — Introduction to the DOM: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
-3. MDN Web Docs — Event reference: https://developer.mozilla.org/en-US/docs/Web/Events
-4. MDN Web Docs — Client-side form validation: https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation
+
